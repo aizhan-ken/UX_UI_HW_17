@@ -1,0 +1,55 @@
+body {
+    background-color: #2A282D;
+}
+
+.logo {
+    width: 233px;
+    padding: 1%;
+}
+.heroImg {
+ height: 250px;
+ right: 50px;
+}
+
+header {
+    background-color: #8F00FF;
+    padding: 15px;
+  }
+  header nav {
+    color: white;
+    float: right;
+    vertical-align: top;
+    position: absolute; 
+    top: 50px; 
+    right: 30px;
+  }
+  nav a {
+    display: inline-block;
+    padding: 0px 5px;
+  }
+
+  .content {
+    max-width: 900px;
+    color: white;
+    margin: 0 auto;
+    padding: 30px; 
+    text-align: center;
+    position: relative;
+    bottom: -255px;
+  }
+  footer {
+    position: absolute;
+    background-color: #8F00FF;
+    padding: 5px;
+    color: white;
+    bottom: 0;
+    height: 90px;
+  }
+  footer div {
+    list-style: none;
+    padding-left: 1750px;
+  }
+  footer a {
+    display: inline-block;
+    padding: 0px 7px;
+  }
